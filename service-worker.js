@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/potus-quotes/precache-manifest.513fb4363b5553e2760b54c5c0830a7a.js"
+  "/potus-quotes/precache-manifest.377a4b094566c405f8877bab04c9944e.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "439d49e669236c0330e8456b6c631fc8",
+    "revision": "9acee2168f4eb8c1cd39d91e1f0e78c6",
     "url": "/potus-quotes/index.html"
   },
   {
