@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/potus-quotes/static/css/main.99f64a75.chunk.css",
+    "main.css": "/potus-quotes/static/css/main.97b98971.chunk.css",
     "main.js": "/potus-quotes/static/js/main.785d3b03.chunk.js",
     "main.js.map": "/potus-quotes/static/js/main.785d3b03.chunk.js.map",
     "runtime-main.js": "/potus-quotes/static/js/runtime-main.a31679de.js",
@@ -8,16 +8,16 @@
     "static/js/2.3d6763d8.chunk.js": "/potus-quotes/static/js/2.3d6763d8.chunk.js",
     "static/js/2.3d6763d8.chunk.js.map": "/potus-quotes/static/js/2.3d6763d8.chunk.js.map",
     "index.html": "/potus-quotes/index.html",
-    "precache-manifest.377a4b094566c405f8877bab04c9944e.js": "/potus-quotes/precache-manifest.377a4b094566c405f8877bab04c9944e.js",
+    "precache-manifest.6ae2e91aefffe279e7ed19a48da87f89.js": "/potus-quotes/precache-manifest.6ae2e91aefffe279e7ed19a48da87f89.js",
     "service-worker.js": "/potus-quotes/service-worker.js",
-    "static/css/main.99f64a75.chunk.css.map": "/potus-quotes/static/css/main.99f64a75.chunk.css.map",
+    "static/css/main.97b98971.chunk.css.map": "/potus-quotes/static/css/main.97b98971.chunk.css.map",
     "static/js/2.3d6763d8.chunk.js.LICENSE.txt": "/potus-quotes/static/js/2.3d6763d8.chunk.js.LICENSE.txt",
     "static/media/App.css": "/potus-quotes/static/media/trump.438059c9.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.a31679de.js",
     "static/js/2.3d6763d8.chunk.js",
-    "static/css/main.99f64a75.chunk.css",
+    "static/css/main.97b98971.chunk.css",
     "static/js/main.785d3b03.chunk.js"
   ]
 }

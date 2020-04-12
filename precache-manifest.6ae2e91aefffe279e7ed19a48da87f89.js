@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9acee2168f4eb8c1cd39d91e1f0e78c6",
+    "revision": "150ac3c59d10261a16b88004efca4f30",
     "url": "/potus-quotes/index.html"
   },
   {
-    "revision": "e8d6dcc24604b1986831",
-    "url": "/potus-quotes/static/css/main.99f64a75.chunk.css"
+    "revision": "c20532477588e310bfae",
+    "url": "/potus-quotes/static/css/main.97b98971.chunk.css"
   },
   {
     "revision": "28971310e5d10758bcc5",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/potus-quotes/static/js/2.3d6763d8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e8d6dcc24604b1986831",
+    "revision": "c20532477588e310bfae",
     "url": "/potus-quotes/static/js/main.785d3b03.chunk.js"
   },
   {
