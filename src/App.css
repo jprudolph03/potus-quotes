@@ -7,9 +7,9 @@ body{
 }
 
 .RandoQuote{
-  color: white;
-  text-align: center;
   font-family: 'Special Elite', cursive;
+  text-align: center;
+  color: white;
   width: 75vw;
   margin: 0 auto;
   margin-top: 25vh;
@@ -27,11 +27,15 @@ body{
 }
 
 button{
-  width: 45vw;
-  height: 2em;
-  background: rgba(255, 255, 255, 0.3);
-  font-size:2em;
-  color: white;
   font-family: 'Special Elite', cursive;
+  font-size: 1.5em;
+  width: 45vw;
+  background: rgba(255, 255, 255, 0.3);
+  color: white;
   padding: 20px;
+}
+
+button:hover{
+  background-color: white;
+  color: rgba(0, 0, 0, 0.7);
 }
